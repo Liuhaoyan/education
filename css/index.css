@@ -1,0 +1,526 @@
+/**********news开始****************/
+/***********左半部分开始*************/
+#news .wrapper{
+	width: 1100px;
+	height: 195px;
+	margin: 0 auto;
+}
+#news #container{
+	width: 660px;
+	height: 155px;
+	float: left;
+}
+#news #title{
+	width: 660px;
+	height: 35px;
+	margin-top: 20px;
+
+}
+#news #title h3{
+	font: 12px/17px Tahoma,Verdana,Arial,宋体;
+	color: #000;
+	width: 57.25px;
+	height: 17px;
+	float: left;
+	margin-top: 2px;
+	
+}
+#news #more a{
+	
+	width: 100px;
+	height: 30px;
+	float: right;
+	margin-right: 70px;
+	margin-top: -10px;
+	font: 12px/30px Tahoma, Verdana, Arial, 宋体;
+	border-radius: 20px;
+}
+#news #more a{
+	display: block;
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	color: black;
+}
+#news #content-left{
+	color: black;
+	float: left;
+	
+	
+}
+#news #content-right{
+	color: black;
+	float: right;
+	margin-right: 70px;
+	
+	
+}
+
+#news ul li{
+	width: 295px;
+	height: 30px;
+	font: 12px/14px Tahoma, Verdana, Arial, 宋体;
+	background: url(../img/home-bg1.png) no-repeat left;
+	background-position: 16px;
+}
+#news ul li a{
+	width: 280px;
+	height: 14px;
+	text-align: center;
+	line-height: 30px;
+	margin-left: 33px;
+}
+#news #title a:hover{
+	background: red;
+}
+/***********左半部分结束*************/
+/***********右半部分开始*************/
+#news #container2 #title2{
+	width: 400px;
+	height: 35px;
+	float: right;
+	margin-top: 20px;
+}
+#news #container2  #title2 h3{
+	float: left;
+	width: 52.75px;
+	height: 17px;
+	font: 12px/17px Tahoma, Verdana, Arial, 宋体;
+	margin-top: 2px;
+	color: black;
+}
+#news #container2 #title2 a{
+	float: right;
+	display: block;
+	width: 100px;
+	height: 30px;
+	margin-top: -10px;
+	margin-right: -2px;
+	font: 12px/30px Tahoma, Verdana, Arial, 宋体;
+	text-align: center;
+	border-radius: 20px;
+}
+#news #content2 #border{
+	float: right;
+	width: 400px;
+	height: 90px;
+	border: black dotted 1px;
+
+	
+}
+#news #set li{
+	width: 415px;
+	height: 30px;
+
+	
+}
+#news #set li a{
+	margin-left:200px;
+	margin-top: 2px;
+}
+#news #title2 a:hover{
+	background: red;
+}
+/***********右半部分结束*************/
+/**********news结束****************/
+/**********courses开始****************/
+#courses{
+	height: 530px;
+	background: gray;
+	clear: both;
+	
+
+}
+#courses .wrapper{
+	height: 530px;
+	
+	
+} 
+
+#courses #intro{
+            width: 1349px;
+            height: 32px;
+            color: black;
+            
+           padding-top: 80px;
+           
+}
+#courses .wrapper #intro{
+	text-align: center;
+	line-height:32px; 
+}
+
+#courses #eng{
+		width: 1349px;
+		height: 21px;
+		color: black;
+		text-align: center;
+		line-height: 21px;
+		padding-top: 30px;
+}
+#courses #picture{
+	margin-left: 30px;
+	margin-left: 50px;
+	padding-top: 60px;
+	
+
+}
+#courses #picture img{
+	width: 194px;
+	height: 175px;
+	
+	margin-right:15px;
+
+
+}
+#courses #biao a{
+	float: left;
+	display: block;
+	width: 194px;
+	height: 21px;
+	text-align: center;
+	margin-left: 35px;
+	color: black;
+
+}
+
+
+/**********courses结束****************/
+
+/**********slogan开始****************/
+#slogan{
+	height: 350px;
+	background:green;
+}
+
+#block1{
+	background: white;
+	width: 100px;
+	height: 35px;
+	float: left;
+	text-align: center;
+	line-height: 35px;
+	margin-left: 600px;
+	margin-top: 20px;
+
+
+
+}
+#block2{
+	background: yellow;
+	width: 100px;
+	height: 35px;
+	float: left;
+	text-align: center;
+	line-height: 35px;
+	margin-top: 20px;
+}
+#Know-title{
+	text-align: center;
+	line-height: 63px;
+	width: 525px;
+	height: 63px;
+	margin-left: 440px;
+	clear: both;
+	margin-top: 50px;
+	color: white;
+	font: 30px/63px Tahoma, Verdana, Arial, 宋体;
+	padding-top: 10px;
+
+
+}
+#slogan #biaoti{
+
+	width: 525px;
+	height: 21px;
+	padding-top: 10px;
+	margin: 0 auto;
+
+}
+#slogan #biaoti p{
+	color: white;
+	text-align: center;
+	line-height: 21px;
+	margin-left: 50px;
+}
+#slogan #line{
+	text-decoration: blink;
+
+}
+#slogan #content{
+	border-top: 1px solid #fff;
+	width: 525px;
+	height: 88px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+#slogan #content p{
+	padding-top: 19px;
+	color: white;
+	font: 13px/1.8 Tahoma, Verdana, Arial, 宋体;
+
+}
+
+#slogan #known-us{
+	width: 525px;
+	height: 27px;
+	margin: 0 auto;
+	margin-top: 20px;
+
+
+	
+}
+#slogan a:hover{
+	background: white;
+	
+	border: 1px solid yellow;
+	color: black;
+}
+#slogan #known-us a{
+	color: white;
+	display: block;
+	width: 102px;
+	height: 27px;
+	border: 1px solid #fff;
+	text-align: center;
+	line-height: 27px;
+	margin: 0 auto;
+}
+/**********slogan结束****************/
+/**********question开始****************/
+#question{
+	height: 394px;
+	background:yellow; 
+}
+
+#question .wrapper{
+	/*width:1100px; */
+	height: 394px;
+	 
+	margin: 0 auto;
+}
+#question-left{
+	width: 675px;
+	height: 264px;
+	
+	float: left;
+	margin-top: 40px;
+}
+#question #title{
+	width: 675px;
+	height: 32px;
+	
+}
+#question  #title h1{
+	float: left;
+	font: 16px/32px Tahoma,Verdana,Arial,宋体;
+
+}
+#question-left   #title a{
+	float: right;
+	display: block;
+	width: 100px;
+	height: 25px;
+	text-align: center;
+	border-radius: 20px;
+	font: 12px/25px Tahoma,Verdana,Arial,宋体;
+}
+#question-left   #title a:hover{
+	background: white;
+}
+
+#question #content{
+	clear: both;
+	border:1px dotted black;
+	width: 675px;
+	height: 212px;
+	margin-top: 20px;
+}
+
+#question #content ul li{
+	width: 610px;
+	height: 25px;
+	margin-top: 10px;
+
+	background: url(../img/Problem-bg.png)  no-repeat left center;
+	background-position: 20px;
+	font: 14px/25px Tahoma,Verdana,Arial,宋体;
+	margin-bottom: 2px;
+	border-bottom: 1px dotted black;
+	margin-left: 10px;
+}
+#question #content ul li a{
+	margin-left: 40px;
+	display: block;
+	width: 610px;
+	height: 25px;
+	
+}
+#question-right{
+	width: 335px;
+	height: 340px;
+	float: right;
+	margin-top: 40px;
+}
+#tit{
+	width: 335px;
+	height: 32px;
+	
+    text-align:center;
+    line-height: 32px; 
+
+}
+#cont{
+	width: 335px;
+	height: 288px;
+	
+	border:1px dotted black;
+}
+.font{
+	width: 259px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	margin: 0 auto;
+	
+	
+	
+}
+.mark{
+	width: 8px;
+	height: 18px;
+	
+	text-align:center;
+	line-height: 18px; 
+	color: red;
+	
+}
+.text-box{
+	width: 261px;
+	height: 29px;
+	margin: 0 auto;
+	border: 0;
+	
+}
+.front{
+	width: 261px;
+	height: 27px;
+	border: 1px solid black; 
+	display: block;
+	margin: 0 auto;
+	float: left;
+}
+
+.blank{
+	width: 261px;
+	height: 27px;
+	border: 1px dotted #fff;
+
+}
+#line{
+	width: 259px;
+	height: 34px;
+	margin:0 auto;
+	margin-top: 27px;
+}
+#total{
+	width: 53px;
+	height: 18px;
+	font: 12px/18px Tahoma, Verdana, Arial, 宋体;
+	text-align: center;
+	line-height: 18px;
+	margin-bottom: 5px;
+}
+#question-right #form{
+	float: right;
+	width: 84px;
+	height: 26px;
+	border: 1px dotted #ccc;
+	margin-top:-27px; 
+	margin-right: 120px;
+}
+#cc{
+	width: 82px;
+	height: 24px;
+}
+#tupian{
+	width: 52px;
+	height: 31px;
+	float: right;
+	
+	margin-top: -30px;
+	margin-right: 60px;
+
+
+}
+#tupian h5{
+	font: 12px/25px Tahoma, Verdana, Arial, 宋体;
+	width: 52px;
+	height: 25px;
+	border:1px solid #000;
+	text-align: center;
+	line-height: 25px;
+}
+.setting{
+	width: 100px;
+	height:25px;
+	background: gray;
+	text-align: center;
+	line-height: 25px;
+	float: left;
+
+	margin-right: 10px;
+	margin-top: 20px;
+	margin-left: 15px;
+
+}
+
+
+/**********question结束****************/
+/**********footer开始****************/
+#footer{
+	
+	height: 122px;
+	background: black;
+	clear: both;
+	
+}
+#footer #line2{
+	margin-left: 22px;
+}
+#footer #container #line2 a{
+	color: white;
+	margin-right: 10px;
+	
+
+}
+#footer #container p{
+	color: white;
+	margin-bottom: 10px;
+
+}
+#footer #container{
+	margin-left: 500px;
+	float: left;
+	margin-top: 20px;
+
+
+
+
+}
+#footer #line2{
+	margin-bottom: 8px;
+}
+#last{
+	margin-left: 80px;
+}
+#last,#last a{
+	color: white;
+	
+
+}
+
+
+
+/**********footer结束****************/

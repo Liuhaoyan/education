@@ -1,0 +1,67 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ul,ol{
+	list-style: none;
+
+}
+a{
+	text-decoration: none;
+}
+img{
+	border: 0;
+}
+/**********header开始****************/
+#header{
+	height: 76px;
+	/*background: red;*/
+}
+#header .wrapper{
+	height: 76px;
+}
+#logo{
+	/*line-height: 76px;*/
+	margin-top: 10px;
+	float: left;
+}
+#nav li{
+	float: left;
+	width: 90px;
+	height: 36px;
+}
+#nav {
+	float: right;
+	margin-top:20px;
+}
+#nav a{
+	width: 90px;
+	height: 36px;
+	display: block;
+	/*background: gray;*/
+	text-align: center;
+	line-height: 36px;
+	font: 12px/36px Tahoma, Verdana, Arial, 宋体;
+	color: black;
+}
+#nav a:hover{
+         color: red;
+}
+
+/**********header结束****************/
+/**********banner开始****************/
+#banner{
+	height: 453px;
+	/*background: yellow;*/
+	background: url(../img/banner01.jpg) no-repeat center center;
+
+
+}
+
+/**********banner结束****************/
+
+.wrapper{
+	width: 1172px;
+	
+	margin: 0 auto;
+}
